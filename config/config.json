@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "burger",
+    "password": null,
+    "database": "burgers_sequelize_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "burger",
+    "password": null,
+    "database": "burgers_sequelize_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "burger",
+    "password": null,
+    "database": "burgers_sequelize_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
